@@ -6,15 +6,13 @@
     - Games
     - Música/Aprendiz de teclado
     - Filmes
-    - Esportes
-
+    - Esportes    
 ### Estudando diariamente sobre:
     -HTML5
     -CSS
     -JavaScript
     -React
     -Inglês
-
 ### Enderedeços para contato:
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/3/#inbox?compose=GTvVlcSGMhmJlzkPXldBWrfxVJsZNlLNQRtsDhtrDtMKwVBQTRttcpTKSxtnsbGKBMSxjZRmmfXGh)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanCostaDev)
