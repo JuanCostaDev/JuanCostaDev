@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Juan Carlos 👨‍💻<br/>
 
- ### - Entusiasta e curioso por  tecnologia desde que me entendo gente, fã de gatos e buscando dar seus primeiros passos nesse mundo da programação com muita garra e determinação.<br/>
+ ### - Entusiasta e curioso por  tecnologia desde que me entendo gente, fã de gatos e buscando dar seus primeiros passos nesse mundo da programação com muita garra e determinação.
+<br/>
 
 ### Hobbies:
     - Games
@@ -27,6 +28,6 @@
 </div>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCostaDev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCostaDev&theme=transparent)](https://github.com/JuanCostaDev/github-readme-stats)
 ![Juan Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanCostaDev&show_icons=true&theme=transparent )
 
