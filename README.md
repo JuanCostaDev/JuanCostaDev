@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Juan Carlos 👨‍💻<br/>
 
  ### - Entusiasta e curioso por  tecnologia desde que me entendo gente, fã de gatos e buscando dar seus primeiros passos nesse mundo da programação com muita garra e determinação.
-<br/>
-
 ### Hobbies:
     - Games
     - Música/Aprendiz de teclado
