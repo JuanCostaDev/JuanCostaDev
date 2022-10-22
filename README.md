@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Juan Carlos 👨‍💻<br/>
 
- ### - Entusiasta e curioso por  tecnologia desde que me entendo gente, fã de gatos e buscando dar seus primeiros passos nesse mundo da programação com muita garra e determinação.
- <br/>
+ ### - Entusiasta e curioso por  tecnologia desde que me entendo gente, fã de gatos e buscando dar seus primeiros passos nesse mundo da programação com muita garra e determinação.<br/>
 
 ### Hobbies:
     - Games
@@ -15,8 +14,6 @@
     -JavaScript
     -React
     -Inglês
-
-<br/>
 
 ### Enderedeços para contato:
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/3/#inbox?compose=GTvVlcSGMhmJlzkPXldBWrfxVJsZNlLNQRtsDhtrDtMKwVBQTRttcpTKSxtnsbGKBMSxjZRmmfXGh)
