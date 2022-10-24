@@ -29,6 +29,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCostaDev&theme=dracula)](https://github.com/JuanCostaDev/github-readme-stats)
-![Juan Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanCostaDev&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCostaDev&theme=tokyonight)](https://github.com/JuanCostaDev/github-readme-stats)
+![Juan Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanCostaDev&show_icons=true&theme=tokyonight)
 
