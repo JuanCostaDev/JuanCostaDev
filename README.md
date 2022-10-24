@@ -1,6 +1,6 @@
-### Olá! Eu sou o Juan Carlos 👨‍💻<br/>
+### Olá! Eu sou o Juan Carlos 👨‍💻<br/><img align="right" alt="Gif-juan"  height="100" src="https://github.com/JuanCostaDev/Assets/blob/main/Meu%20gif/meu.gif">  
 
- ### - Entusiasta e curioso por  tecnologia desde que me entendo gente, fã de gatos e buscando dar seus primeiros passos nesse mundo da programação com muita garra e determinação.
+### - Entusiasta e curioso por  tecnologia desde que me entendo gente, fã de gatos e buscando dar seus primeiros passos nesse mundo da programação com muita garra e determinação.
 ### Hobbies:
     - Games
     - Música/Aprendiz de teclado
@@ -16,8 +16,6 @@
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/3/#inbox?compose=GTvVlcSGMhmJlzkPXldBWrfxVJsZNlLNQRtsDhtrDtMKwVBQTRttcpTKSxtnsbGKBMSxjZRmmfXGh)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanCostaDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancostati/)[![WattsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/juancarlosdev)
-
- <img align="right" alt="Gif-juan"  height="100" src="https://github.com/JuanCostaDev/Assets/blob/main/Meu%20gif/meu.gif"> 
 
 ### Tecnologias que eu uso no meu dia:
 <div style="display: inline_block"></"br>
